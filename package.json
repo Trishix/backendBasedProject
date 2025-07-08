@@ -1,0 +1,17 @@
+{
+  "name": "backendllearning",
+  "version": "1.0.0",
+  "description": "a backend project to improve my skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "mern",
+    "fullstack"
+  ],
+  "author": "Trishit Swarnakar",
+  "license": "ISC"
+}
